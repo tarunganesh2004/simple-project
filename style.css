@@ -13,6 +13,7 @@ th,td{
 td,th{
     border-left:none;
     border-right:none;
+    border-top:none;
 }
 
 .a{
@@ -33,12 +34,13 @@ tr{
     align-items: center;
     justify-content: center;
     border-style:black;
+    text-align:center;
 }
 .a1 img{
     width: 50px;
     height: auto;
     margin-right: 5px;
 }
-tr{
+/* tr{
      border-bottom: 1px solid rgba(0, 0, 0, 0.395);
-}
+} */
